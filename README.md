@@ -1,6 +1,6 @@
 # ecommerce-app
 
-[App Functionality Video Walkthrough]()
+[App Functionality Video Walkthrough](https://drive.google.com/file/d/1x6_CQR90xp7kSi1C3Q4V64jneEjxN_1g/view)
 
 ## Description
 
